@@ -1,8 +1,8 @@
-# Notice
+## Notice:
 
 There is no lab/exercise for lesson 2.
 
-You are encouraged to attend the short courses offered by deeplearning.ai.''
+You are encouraged to attend the short courses offered by `deeplearning.ai` to have a good and solid understanding of transformer architecture.
 
 <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="auto" alt="DeepLearning.AI"/>
 
