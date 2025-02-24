@@ -6,6 +6,6 @@ You are encouraged to attend the short courses offered by `deeplearning.ai` to h
 
 <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="auto" alt="DeepLearning.AI"/>
 
-- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/)
+- [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) (1 hour 35 minutes)
 
-- [Attention in Transformers: Concepts and Code in PyTorch](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)
+- [Attention in Transformers: Concepts and Code in PyTorch](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/) (1 hour 6 minutes)
