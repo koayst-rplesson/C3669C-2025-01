@@ -1,6 +1,8 @@
-## Notice:
+# Lesson 3:
 
-For lesson 3, you are encouraged to attend the short courses offered by `deeplearning.ai` if you didn't do it in lesson 2.
+There is no lab exercise waiting for you.
+
+You are encouraged to attend the short courses offered by `deeplearning.ai` if you didn't do it in lesson 2.
 
 <img src="https://learn.deeplearning.ai/assets/dlai-logo.png" width="auto" alt="DeepLearning.AI"/>
 

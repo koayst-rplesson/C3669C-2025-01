@@ -1,6 +1,6 @@
-## Notice:
+# Lesson 2:
 
-There is no lab/exercise for lesson 2.
+There is no lab exercise waiting for you.
 
 You are encouraged to attend the short courses offered by `deeplearning.ai` to have a good and solid understanding of transformer architecture.
 
