@@ -49,12 +49,12 @@ This repository contains the materials for C3669C.
     <tr>
         <td>8.</td>
         <td>Saturday (PM)</td>
-        <td>Low Code Approach to Building LLM #1</td>
+        <td>Low Code LLM App Builder #1</td>
     </tr>
     <tr>
         <td>9.</td>
         <td>Monday</td>
-        <td>Low Code Approach to Building LLM #2</td>
+        <td>Low Code LLM App Builder #2</td>
     </tr>
     <tr>
         <td>10.</td>
